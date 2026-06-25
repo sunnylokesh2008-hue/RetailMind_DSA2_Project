@@ -6,6 +6,7 @@ RetailMind is a terminal-based Java application that completely digitizes modern
 ## Objectives
 Provide an extremely fast, computationally optimal backend architecture capable of managing inventory, executing sales, optimizing warehouse logistics, sorting vast amounts of data, and forecasting financial trends.
 
+
 ## Features
 - **O(log n) Inventory Management** via AVL and B-Trees.
 - **Fast Analytics** via Fenwick and Segment Trees.
